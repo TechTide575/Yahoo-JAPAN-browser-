@@ -1,4 +1,3 @@
-# TechTideteam
-参考プログラム、オープンソースプログラムなどを公開しています
-よろしくお願いいたします。
-公式browser作成中
+# Yahoo-JAPAN-browser-
+公式browser
+Yahoo!JAPANのブラウザ(オープンソース)を作成しました
